@@ -35,7 +35,7 @@ def painton():
 while 1:        
     for event in pg.event.get():
         if event.type == pg.QUIT:
-            exit() #можно ли это оформить также как строчки 43-45
+            exit() #можно ли это оформить также как строчки 42-44
 
 
     
